@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<launch>
+     <node pkg="average_zxz" type="dat_sim" name="dat_sim" output="screen"> 
+     </node>
+
+</launch>
